@@ -1,0 +1,28 @@
+{
+    "greeting": "你好呀",
+    "name": "王老师",
+    "greetingText": "岁月静好，又迎来了你的生日",
+    "wishText": "愿新的一岁，平安喜乐，工作顺遂，生活常安，万事皆如意",
+    "imagePath": "img/lydia2.png",
+    "text1": "今天是你的生日呀 🎂",
+    "textInChatBox": "真心祝你生日快乐！愿岁岁无忧，事事顺意～",
+    "sendButtonLabel": "发送",
+    "text2": "共事相伴，很感谢一路的关照与同行",
+    "text3": "言语不多，心意满满",
+    "text4Adjective": "温暖又美好",
+    "text5Entry": "愿你永远自在欢喜",
+    "bigTextPart1": "生日",
+    "bigTextPart2": "快乐",
+    "wishHeading": "生日快乐！",
+    "outroText": "希望这份小小心意能让你觉得温暖～",
+    "replayText": "喜欢的话可以再看一遍，祝你日日都有好心情！",
+    "outroSmiley": "😊",
+  "music": "./music/bgMusic.mp3",
+  "fonts": [
+    {
+      "name": "Ma Shan Zheng",
+      "path": "https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&display=swap"
+    }
+  ]
+}
+
